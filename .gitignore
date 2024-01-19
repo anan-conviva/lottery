@@ -1,5 +1,5 @@
 #npm
 node_modules/
-dist/
+#dist/
 temp.json
 error.json
