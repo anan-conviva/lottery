@@ -16,29 +16,29 @@ const prizes = [
   {
     type: 1,
     count: 1,
-    text: "特等奖",
+    text: "Special prize: \n",
     title: "iPad Pro",
     img: "../img/iPad_Pro.jpg"
   },
   {
     type: 2,
     count: 1,
-    text: "一等奖",
+    text: "Frist prize: \n",
     title: "Apple iPhone 15",
     img: "../img/Apple_iPhone_15.jpg"
   },
   {
     type: 3,
     count: 2,
-    text: "二等奖",
-    title: "大疆运动相机",
+    text: "The second prize: \n",
+    title: "Dji - Motion camera",
     img: "../img/Dji_action_camera.jpg"
   },
   {
     type: 4,
     count: 3,
-    text: "三等奖",
-    title: "大疆手持云台",
+    text: "The third prize: \n",
+    title: "Dji - Handheld gimbal",
     img: "../img/Dji_handheld_head.jpg"
   },
 ];
